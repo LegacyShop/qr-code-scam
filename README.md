@@ -6,6 +6,8 @@ QR WICK BOT (WORKING 2022 DECEMBER!!)
 ### Dont use open source bots like this, they will lose up to 60% tokens.
 With our bot you wont lose - 90% tokens!
 
-> https://t.me/CryDiscord_bot
-> https://t.me/otzivy_crydiscord
+ LINKS: https://t.me/CryDiscord_bot
+ https://t.me/otzivy_crydiscord
+
+
 ![photo_2022-11-29_08-38-14](https://user-images.githubusercontent.com/69971638/205107530-b3c7f473-b561-48f2-9efd-bc767e1901ae.jpg)
